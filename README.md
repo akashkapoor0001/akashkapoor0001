@@ -49,6 +49,11 @@ I am an Aspiring Software Developer &  Asp. Full Stack Developer <img src="https
   <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg" title="Vercel" **alt="Vercel" width="50" height="50"/>
 </div>
 
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akashkapoor0001&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 
 <!--
