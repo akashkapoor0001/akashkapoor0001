@@ -8,8 +8,14 @@
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+  <a href="mailto:akashkapoor976@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://akashkapoor.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge&logo=personal-website&logoColor=white" alt="Portfolio Badge"/>
+  </a>
 </div>
-
+<br>
 <img src="https://komarev.com/ghpvc/?username=akashkapoor0001&style=flat-square&color=blue" alt=""/>
 
 <div align="center">
@@ -29,7 +35,9 @@ I am an Aspiring Software Developer &  Asp. Full Stack Developer <img src="https
 
 - :zap: In my free time, I read tech articles and work on my problem-solving skills.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AkashKapoor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akash-kapoor-025733230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AkashKapoor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akash-kapoor-025733230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:akashkapoor976@gmail.com)
+
 
 ---
 
