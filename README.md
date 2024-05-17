@@ -22,11 +22,10 @@
 
 ### :man_technologist: About Me :
 I am an Aspiring Software Developer &  Asp. Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I read tech articles and work on my problem-solving skills.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AkashKapoor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akash-kapoor-025733230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
