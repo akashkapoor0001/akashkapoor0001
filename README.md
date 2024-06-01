@@ -67,6 +67,10 @@ I am an Aspiring Software Developer &  Asp. Full Stack Developer <img src="https
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashkapoor0001&layout=compact&theme=vision-friendly-dark)](https://github.com/akashkapoor0001/github-readme-stats)
 
 <!--
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=akashkapoor_)](https://github.com/akashkapoor0001/github-readme)
+-->
+
+<!--
 **akashkapoor0001/akashkapoor0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
