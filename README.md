@@ -62,7 +62,9 @@ I am an Aspiring Software Developer &  Asp. Full Stack Developer <img src="https
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=akashkapoor0001&theme=dark)](https://git.io/streak-stats)
+
+![GitHub commit streak](https://github-readme-streak-stats.herokuapp.com/?user=akashkapoor0001&theme=dark)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashkapoor0001&layout=compact&theme=vision-friendly-dark)](https://github.com/akashkapoor0001/github-readme-stats)
 
