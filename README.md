@@ -34,6 +34,8 @@ I am an Aspiring Software Developer &  Asp. Full Stack Developer <img src="https
 
 - :seedling: Exploring Technical Content Writing.
 
+- Hackathons? Let's participate :)
+
 - :zap: In my free time, I read tech articles and work on my problem-solving skills.
 
 - mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AkashKapoor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akash-kapoor-025733230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
