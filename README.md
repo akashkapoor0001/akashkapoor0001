@@ -1,6 +1,5 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-
   
   <div id="badges" >
   <a href="https://www.linkedin.com/in/akash-kapoor-025733230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
