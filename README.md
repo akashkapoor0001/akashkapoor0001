@@ -28,7 +28,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am an Aspiring Software Developer &  Asp. Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a 3rd Year B.E Student | Aspiring Software Developer &  Asp. Full Stack Developer | C++ Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - 👨‍💻: Know more about me at [My Website](https://akashkapoor.vercel.app)
 
