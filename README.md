@@ -28,7 +28,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a 3rd Year B.E Student | Aspiring Software Developer &  Asp. Full Stack Developer | C++ Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+-  I am a 3rd Year B.E Student | Aspiring Software Developer &  Asp. Full Stack Developer | C++ Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - 👨‍💻: Know more about me at [My Website](https://akashkapoor.vercel.app)
 
@@ -38,7 +38,7 @@ I am a 3rd Year B.E Student | Aspiring Software Developer &  Asp. Full Stack Dev
 
 - :zap: In my free time, I read tech articles and work on my problem-solving skills.
 
-- mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AkashKapoor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akash-kapoor-025733230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AkashKapoor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akash-kapoor-025733230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:akashkapoor976@gmail.com)
 
 ---
