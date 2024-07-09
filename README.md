@@ -32,7 +32,7 @@
 
 - 👨‍💻: Know more about me at [My Website](https://akashkapoor.vercel.app)
 
-- :seedling: Exploring Technical Content Writing.
+- 📚: I am currently learning DevOps Engineering.
 
 - Hackathons? Let's participate :)
 
