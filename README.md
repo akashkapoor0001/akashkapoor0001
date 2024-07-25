@@ -34,7 +34,7 @@
 
 - 📚: I am currently learning DevOps Engineering.
 
-- Hackathons? Let's participate :)
+- Hackathons? Let's participate together :)
 
 - :zap: In my free time, I read tech articles and work on my problem-solving skills.
 
