@@ -64,7 +64,9 @@
 
 ### :fire: My Stats :
 
-![GitHub commit streak](https://github-readme-streak-stats.herokuapp.com/?user=akashkapoor0001&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akashkapoor0001&theme=dark)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashkapoor0001&show_icons=true&theme=highcontrast)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashkapoor0001&layout=compact&theme=vision-friendly-dark)](https://github.com/akashkapoor0001/github-readme-stats)
@@ -88,6 +90,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Updated the Repo
-
-fcfvfcfb
